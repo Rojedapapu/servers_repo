@@ -1,0 +1,67 @@
+body {
+	color: white;
+	font-family: Lucida Console;
+	font-size: 20px;
+	background-image: url(./CSS/good.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+}
+
+td {
+	border: 2px solid black;
+	padding: 3px;
+}
+
+th {
+	padding: 10px;
+	border: 2px solid black;
+}
+
+.center {
+	color: white;
+	margin: 15px;
+}
+
+.borde {
+	border: 5px outset #00ad2b;
+}
+
+.pad {
+	padding: 8px;
+}
+
+thead {
+	background-color: #eac600;
+    text-shadow: 1px 1px black;
+
+}
+
+table {
+	font-size: 15px;
+	width: 100%;
+	background-color: #131313e8;
+	border-collapse: collapse;
+	border-width: 2px;
+	border-color: #000000;
+	border-style: solid;
+	color: #ffffff;
+	text-align: center;
+}
+
+.top1 {
+	color: #FFD700;
+	text-shadow: 0 0 0.9em #FFD700;
+}
+
+.top2 {
+	color: #C0C0C0;
+	text-shadow: 0 0 0.9em #C0C0C0;
+}
+
+.top3 {
+	color: #cd7f32;
+	text-shadow: 0 0 0.9em #cd7f32;
+}
