@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+body {
+    color: white;
+    font-size: 20px;
+    background-image: url(https://iili.io/gN8XJj.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+.base {
+    width: 80%;
+    margin: 5% auto;
+}
+.centerh3 {
+    text-align: center;
+}
+.mejor_jugador {
+    background-color: #101010;
+    border-radius: 8px;
+    border: 1px solid red;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 5%;
+}
+.left_image {
+    margin: 15px 5px 15px 10px;
+    float: left;
+    border: 1px solid red;
+}
+
+h2 {
+    font-size: 13px;
+    padding: 3%;
+    background: url(https://iili.io/gO0JHu.png) #d10202;
+    color: white;
+    margin-top: -5px;
+}
+.stats {
+    width: 70%;
+    float: left;
+    display: flow-root;
+}
+table.cs_apure {
+    margin-top: 15px;
+    width: 100%;
+    font-size: 10px;
+    background-color: #2e2e2e;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #000000;
+    border-style: solid;
+    color: #ffffff;
+}
+table.cs_apure th {
+    background: url(http://192.168.1.150/c/gradient.png) #d10202;
+    border-width: 2px;
+    border-color: #000000;
+    border-style: solid;
+    padding: 3px;
+}
+
+table.cs_apure thead {
+    background-color: #ff0000;
+}
+.next_map {
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+}
+.map_color {
+    color: red;
+}
+.star {
+    color: yellow;
+}
